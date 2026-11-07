@@ -1,0 +1,7 @@
+SITE_ID=site-02
+DESIGN_ID=design-02
+DESIGN_NAME=프리미엄형
+SITE_NAME=클라우드
+DOMAIN=
+PHONE=
+REGIONS=seoul
